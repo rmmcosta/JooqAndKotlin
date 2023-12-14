@@ -1,2 +1,1 @@
 # JooqAndKotlin
-# JooqAndKotlin
